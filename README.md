@@ -33,7 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-'''
+```
 Home page 
 
 <div style="width: 440px; height: 956px; position: relative; background: white">
@@ -93,7 +93,7 @@ Contact page
   <div style="left: 99px; top: 830px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Inter; font-weight: 900; word-wrap: break-word"> Phone: 6369183394<br/>6369183394</div>
 </div>
 
-'''
+```
 
 
 ## OUTPUT:
