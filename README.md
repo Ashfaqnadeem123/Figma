@@ -97,10 +97,11 @@ Contact page
 
 
 ## OUTPUT:
+![alt text](<Screenshot 2024-12-23 221019.png>)
 ![alt text](<Screenshot 2024-12-23 221030.png>) 
 ![alt text](<Screenshot 2024-12-23 221041.png>) 
 ![alt text](<Screenshot 2024-12-23 221054.png>) 
-![alt text](<Screenshot 2024-12-23 221019.png>)
+
 
 
 ## RESULT:
